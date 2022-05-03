@@ -1,4 +1,4 @@
-# python-3.9-on-wsl
+# Upgrade python-3.9-on-wsl
 
 Update package lists
 

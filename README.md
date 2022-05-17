@@ -1,4 +1,4 @@
-# Upgrade python-3.9.12-on-wsl2
+# Upgrade / Install python-3.9.12 on wsl2
 
 > If you are installing the python version other than `3.9.12` change the approprite version number with the following command.
 
